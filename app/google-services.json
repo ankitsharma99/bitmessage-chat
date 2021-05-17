@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931989807376",
+    "project_id": "bitmessages-d444a",
+    "storage_bucket": "bitmessages-d444a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931989807376:android:e3f89f9d7b6f7fda958595",
+        "android_client_info": {
+          "package_name": "com.example.bitmessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931989807376-qqa2kd2749ilual4mq3lgoohuhd2a82i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-aIEHorMRJVxoCpS7JxBmcrnpQIYln4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931989807376-qqa2kd2749ilual4mq3lgoohuhd2a82i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

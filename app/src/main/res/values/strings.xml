@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BitMessages</string>
+    <string name="tv_verify">Verify your Phone Number</string>
+    <string name="tv_sendingsms">We\'ll send you an SMS</string>
+    <string name="hint1_et">Phone Number</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="tv_enterOTP">Enter the OTP that we just sent!</string>
+    <string name="btn_continue">Continue</string>
+    <string name="tv_profileInfo">Profile Info</string>
+    <string name="tv_setImgandName">Please set your name and Profile Pic</string>
+    <string name="hint_typeName">Your Name</string>
+</resources>
